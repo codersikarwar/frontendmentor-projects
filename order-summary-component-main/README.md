@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile view](./images/screenshot-mobile.jpg)
-![Desktop View](./images/screenshot-desktop.jpg)
+<img src="images/screenshot-desktop.jpg" alt="drawing" width="300"/><br>
+<img src="images/screenshot-mobile.jpg" alt="drawing" width="100"/>
 
 ### Links
 
