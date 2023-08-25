@@ -21,13 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="images/screenshot-desktop.jpg" alt="drawing" width="300"/><br>
-<img src="images/screenshot-mobile.jpg" alt="drawing" width="100"/>
+<img src="images/screenshot-desktop.jpg" alt="drawing" width="300"/>
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/codebss-in/frontendmentor-projects/tree/main/order-summary-component-main)
-- Live Site URL: [Click here](https://codebss-in.github.io/frontendmentor-projects/order-summary-component-main/)
+- Solution URL: [Github Repo](https://github.com/codebss-in/frontendmentor-projects/tree/main/order-summary-component-main)
+- Live Site URL: [Github Pages](https://codebss-in.github.io/frontendmentor-projects/order-summary-component-main/)
 
 ## Built with
 
