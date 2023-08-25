@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/codebss-in/frontendmentor-projects/order-summary-component-main)
+- Solution URL: [Click here](https://github.com/codebss-in/frontendmentor-projects/tree/main/order-summary-component-main)
 - Live Site URL: [Click here](https://codebss-in.github.io/frontendmentor-projects/order-summary-component-main/)
 
 ## Built with
